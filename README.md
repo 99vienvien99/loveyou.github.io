@@ -6,10 +6,5 @@
 
 ![Image](https://hinhanhdephd.com/wp-content/uploads/2015/12/hinh-anh-dep-girl-xinh-hinh-nen-dep-gai-xinh.jpg)
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
-### Support or Contact
-EDITOR [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) 
+### EDITOR
+ [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) 
