@@ -1,6 +1,5 @@
 
 # My name is VIEN VIEN
-<title> vien khung A2 </title>
 # Welcome to My Pages
 ![Image](/ANHMOI.jpg)
 # Tôi yêu VIỆT NAM
