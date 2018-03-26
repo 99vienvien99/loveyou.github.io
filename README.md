@@ -1,7 +1,7 @@
-## Welcome to My Pages
+# Welcome to My Pages
+# My name is VIEN VIEN
 
-EDITOR [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) 
-![Image](https://eva-img.24hstatic.com/upload/1-2018/images/2018-03-23/29472186_2106714626010485_898946861094912971_n-1521773597-434-width800height800.jpg)
+![Image](https://photos.google.com/album/AF1QipPEjSglVY2Z2Wp8EKs0ET4nG7yHImulbYM_fFkN/photo/AF1QipOhrKseQqbLiHdoWTTNYgroso36evF9i0wrsr-Z)
 # Tôi yêu VIỆT NAM
 
 
@@ -9,9 +9,6 @@ EDITOR [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit
 
 
 
-# HELLO EVERY ONE
-# VIEN VIEN
-# LOVE YOU
 
 
 **Bold** and _Italic_ and `Code` text
@@ -26,5 +23,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/99vienvien99/loveyou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
+EDITOR [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
