@@ -1,7 +1,7 @@
 # Welcome to My Pages
 # My name is VIEN VIEN
 
-![Image](loveyou.github.io/ANH MOI.jpg)
+![Image](/ANHMOI.jpg)
 # Tôi yêu VIỆT NAM
 
 
