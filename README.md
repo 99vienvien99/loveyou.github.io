@@ -1,7 +1,7 @@
 # Welcome to My Pages
 # My name is VIEN VIEN
 
-![Image](https://photos.google.com/album/AF1QipPEjSglVY2Z2Wp8EKs0ET4nG7yHImulbYM_fFkN/photo/AF1QipOhrKseQqbLiHdoWTTNYgroso36evF9i0wrsr-Z)
+![Image](ANH MOI.jpg)
 # Tôi yêu VIỆT NAM
 
 
