@@ -1,7 +1,7 @@
 ## Welcome to My Pages
 
 EDITOR [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) 
-[Image](https://eva-img.24hstatic.com/upload/1-2018/images/2018-03-23/29472186_2106714626010485_898946861094912971_n-1521773597-434-width800height800.jpg)
+![Image](https://eva-img.24hstatic.com/upload/1-2018/images/2018-03-23/29472186_2106714626010485_898946861094912971_n-1521773597-434-width800height800.jpg)
 # Tôi yêu VIỆT NAM
 
 
@@ -16,7 +16,7 @@ EDITOR [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit
 
 **Bold** and _Italic_ and `Code` text
 
-[Image](https://hinhanhdephd.com/wp-content/uploads/2015/12/hinh-anh-dep-girl-xinh-hinh-nen-dep-gai-xinh.jpg)
+![Image](https://hinhanhdephd.com/wp-content/uploads/2015/12/hinh-anh-dep-girl-xinh-hinh-nen-dep-gai-xinh.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
