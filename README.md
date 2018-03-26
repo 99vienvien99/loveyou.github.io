@@ -1,7 +1,7 @@
 # Welcome to My Pages
 # My name is VIEN VIEN
 
-![Image](ANH MOI.jpg)
+![Image](/ANH MOI.jpg)
 # Tôi yêu VIỆT NAM
 
 
