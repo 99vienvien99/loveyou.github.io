@@ -9,5 +9,8 @@
 ![Image](/anh2.jpg)
 # Thầy tôi, hehe
 ![Image](/anh3.jpg)
+# Con bạn xinh đẹp!
+![Image](/anh4.jpg)
+
 ### EDITOR
  [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) 
