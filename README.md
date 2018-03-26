@@ -1,29 +1,22 @@
 ## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+EDITOR [editor on GitHub](https://github.com/99vienvien99/loveyou.github.io/edit/master/README.md) 
+[Image](https://eva-img.24hstatic.com/upload/1-2018/images/2018-03-23/29472186_2106714626010485_898946861094912971_n-1521773597-434-width800height800.jpg)
 # Tôi yêu VIỆT NAM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-Syntax highlighted code block
+
+
 
 # HELLO EVERY ONE
 # VIEN VIEN
 # LOVE YOU
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://hinhanhdephd.com/wp-content/uploads/2015/12/hinh-anh-dep-girl-xinh-hinh-nen-dep-gai-xinh.jpg)
+[Image](https://hinhanhdephd.com/wp-content/uploads/2015/12/hinh-anh-dep-girl-xinh-hinh-nen-dep-gai-xinh.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
